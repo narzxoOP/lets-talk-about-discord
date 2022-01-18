@@ -26,9 +26,11 @@
 - [hoemotion](https://github.com/hoemotion)
 - [dropout1337](https://github.com/dropout1337)
 - [Fweak](https://github.com/Fweak)
+- [billythegoat356]https://github.com/billythegoat356
 
 -----
 
 ## Skid
 
 - [Sheldon](https://github.com/Its-SheldonDev)
+- [sreechar](https://github.com/sreechar)
