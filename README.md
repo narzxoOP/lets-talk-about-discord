@@ -26,3 +26,9 @@
 - [hoemotion](https://github.com/hoemotion)
 - [dropout1337](https://github.com/dropout1337)
 - [Fweak](https://github.com/Fweak)
+
+-----
+
+## Trusted skid
+
+- [Sheldon](https://github.com/Its-SheldonDev)
