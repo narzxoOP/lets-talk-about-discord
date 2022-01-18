@@ -27,6 +27,8 @@
 - [dropout1337](https://github.com/dropout1337)
 - [Fweak](https://github.com/Fweak)
 - [billythegoat356](https://github.com/billythegoat356)
+- [bytixo](https://github.com/bytixo)
+- [Hideaki](https://github.com/HideakiAtsuyo)
 
 -----
 
