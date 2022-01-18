@@ -33,3 +33,10 @@ Au départ le nom était "colorama" (oui comme le vrais module) et avait les "o"
 
 La database:
 ![](https://media.discordapp.net/attachments/932262149542248481/933092963481976913/unknown.png)
+
+
+### **__Qu'est-il arriver avec les personne ayant été logger__**
+
+
+- Rien de spécial à part être utiliser comme sniper & nitro buyer.
+- Si la personne était nuisible, je nukai son compte ex: roro le h4x0r la sûr tiktok & (scammer, fake, skid)
