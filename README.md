@@ -29,6 +29,6 @@
 
 -----
 
-## Trusted skid
+## Skid
 
 - [Sheldon](https://github.com/Its-SheldonDev)
