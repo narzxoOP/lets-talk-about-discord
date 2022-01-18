@@ -1,4 +1,7 @@
-# writted in french / eng , if you whant translate just put pull requests (i will translate later)
+# Here is an "topic" about discord
+
+⭐ If you have something to add or share, create a pull request.
+🎈 Leave a star and share to groth this "topic".
 
 1. [Comment j'ai récupérer des milliers de comptes discord, code xbox & nitro gratuitements sans rien faire graçe à github.](https://github.com/Its-Vichy/lets-talk-about-discord/blob/main/Grabber.md)
 2. [Why discord is trash.](https://github.com/Its-Vichy/lets-talk-about-discord/blob/main/DiscordTrash.md)
