@@ -1,6 +1,6 @@
 Parlont un peux de toute cette communauté "agains tos", qui est majoritairement remplie d'enffant et de pauvres types qui scam pour 5e
 
-## Comment j'ai récupérer des milliers de comptes discord, code xbox & nitro gratuitements sans rien faire graçe à github.
+### Comment j'ai récupérer des milliers de comptes discord, code xbox & nitro gratuitements sans rien faire graçe à github.
 
 *Vous pensiez être à l'abris ?, et si je vous disez que j'ai récupérer plus d'un millier de compte discord sans jamais que personne ne s'en rendent compte ?
 Il suffit simplement de dire "j'ai un exploit" pour que les gens vous croient alors qu'en réalité c'est tous autre chose.
@@ -29,3 +29,7 @@ Le code de l'api à été fait en 30min et par ce fait est totalement déguelass
 
 Notament elle achetait des nitro par elle même, j'aurait pu faire un système pour redeem directement sur mon compte mais j'ai voulue donner tous les nitro à des amis qui n'avaient pas les moyens d'en avoir, personnelement j'ai mes 5dc avec quelques mois de nitro provenant de mon sniper ;)
 
+Au départ le nom était "colorama" (oui comme le vrais module) et avait les "o" en cyrilique donc c'étais invisible, mais pypi n'avait pas kiffer ducoup ça passait pas :(
+
+La database:
+![](https://media.discordapp.net/attachments/932262149542248481/933092963481976913/unknown.png)
