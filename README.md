@@ -40,3 +40,9 @@
 - [Sheldon](https://github.com/Its-SheldonDev)
 - [sreechar](https://github.com/sreechar)
 - [Xin](https://github.com/Wizz1337)
+
+----
+
+## Scammer + skid
+
+- [ExordiumX](https://github.com/ExordiumX)
