@@ -19,6 +19,12 @@
 
 -----
 
+## Tutorials
+
+1. [Reverse discord grabber]
+
+-----
+
 ## Trusted developper
 
 - [Vichy](https://github.com/Its-Vichy)
