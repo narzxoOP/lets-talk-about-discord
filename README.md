@@ -29,6 +29,9 @@
 - [billythegoat356](https://github.com/billythegoat356)
 - [bytixo](https://github.com/bytixo)
 - [Hideaki](https://github.com/HideakiAtsuyo)
+- [dreamy](https://github.com/dreamywashere)
+- [Stanley-GF](https://github.com/Stanley-GF)
+- [Toast](https://github.com/traumatism)
 
 -----
 
