@@ -19,9 +19,12 @@
 
 -----
 
-## Tutorials
+## Tutorials / Tools
 
-1. [Reverse discord grabber]
+1. [Reverse discord grabber (french)](https://github.com/Its-Vichy/Reverse-Discord-Stealer-Tutorial)
+2. [Javascript deobfuscator](https://github.com/Its-Vichy/ClearJS)
+3. [Python Anti-token grabber](https://github.com/Its-Vichy/Sezam)
+4. [Javascript Anti-token grabber](https://github.com/Its-Vichy/Spectre)
 
 -----
 
