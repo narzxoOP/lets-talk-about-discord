@@ -27,3 +27,5 @@ Elle regardait:
 En suite viens le moment un peux plus "fun", moin éthique mais c'était pour la bonne cause, j'aurait pu faire de réels dégats si je voulais faire du mal.
 Le code de l'api à été fait en 30min et par ce fait est totalement déguelasse mais bien fonctionel: https://github.com/Its-Vichy/lets-talk-about-discord/blob/main/api.py
 
+Notament elle achetait des nitro par elle même, j'aurait pu faire un système pour redeem directement sur mon compte mais j'ai voulue donner tous les nitro à des amis qui n'avaient pas les moyens d'en avoir, personnelement j'ai mes 5dc avec quelques mois de nitro provenant de mon sniper ;)
+
