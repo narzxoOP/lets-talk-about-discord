@@ -42,6 +42,7 @@
 - [dreamy](https://github.com/dreamywashere)
 - [Stanley-GF](https://github.com/Stanley-GF)
 - [Toast](https://github.com/traumatism)
+- [Oxi](https://github.com/oxitheman)
 
 -----
 
@@ -50,6 +51,7 @@
 - [Sheldon](https://github.com/Its-SheldonDev)
 - [sreechar](https://github.com/sreechar)
 - [Xin](https://github.com/Wizz1337)
+- [PolarLofy](https://github.com/PolarLofy) - lol i have deleted somes of this skid grabber obfuscated with the ass on youtube, one day he as sent me nitro and suply to stop deleting this shit grabber LMFAO
 
 ----
 
