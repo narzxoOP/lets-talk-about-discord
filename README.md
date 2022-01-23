@@ -54,6 +54,8 @@
 - [sreechar](https://github.com/sreechar)
 - [Xin](https://github.com/Wizz1337)
 - [PolarLofy](https://github.com/PolarLofy) - lol i have deleted somes of this skid grabber obfuscated with the ass on youtube, one day he as sent me nitro and suply to stop deleting this shit grabber LMFAO
+- [Social404](https://github.com/notsocial404) - https://github.com/Its-Vichy/lets-talk-about-discord/issues/2
+- [KeevoDev](https://github.com/KeevoDev) - https://github.com/Its-Vichy/lets-talk-about-discord/issues/2
 
 ----
 
