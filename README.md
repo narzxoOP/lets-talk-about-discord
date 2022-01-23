@@ -49,6 +49,7 @@
 
 ## Skid
 
+- [TerrificTable](https://github.com/TerrificTable) - This disabled person is not able to write his own readme 
 - [Sheldon](https://github.com/Its-SheldonDev)
 - [sreechar](https://github.com/sreechar)
 - [Xin](https://github.com/Wizz1337)
