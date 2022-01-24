@@ -63,3 +63,4 @@
 
 - [ExordiumX](https://github.com/ExordiumX)
 - [TT-Tutorials](https://github.com/TT-Tutorials) - lol this kid resell my tools and skid github
+- [Anarchy skid list](https://github.com/notperry12345678902/anarchy-skid-list)
