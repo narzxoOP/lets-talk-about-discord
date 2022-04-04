@@ -36,11 +36,9 @@
 - [hoemotion](https://github.com/hoemotion)
 - [dropout1337](https://github.com/dropout1337)
 - [Fweak](https://github.com/Fweak)
-- [billythegoat356](https://github.com/billythegoat356)
 - [bytixo](https://github.com/bytixo)
 - [Hideaki](https://github.com/HideakiAtsuyo)
 - [dreamy](https://github.com/dreamywashere)
-- [Stanley-GF](https://github.com/Stanley-GF)
 - [Toast](https://github.com/traumatism)
 - [Oxi](https://github.com/oxitheman)
 - [post04](https://github.com/post04)
@@ -49,6 +47,8 @@
 
 ## Skid
 
+- [Stanley-GF](https://github.com/Stanley-GF)
+- [billythegoat356](https://github.com/billythegoat356)
 - [TerrificTable](https://github.com/TerrificTable) - This disabled person is not able to write his own readme 
 - [Sheldon](https://github.com/Its-SheldonDev)
 - [sreechar](https://github.com/sreechar)
