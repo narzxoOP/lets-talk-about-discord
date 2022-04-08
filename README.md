@@ -42,13 +42,13 @@
 - [Toast](https://github.com/traumatism)
 - [Oxi](https://github.com/oxitheman)
 - [post04](https://github.com/post04)
+- [Stanley-GF](https://github.com/Stanley-GF) (not very trusted for me btw got real skill in programming)
 
 -----
 
 ## Skid
 
-- [Stanley-GF](https://github.com/Stanley-GF)
-- [billythegoat356](https://github.com/billythegoat356)
+- [billythegoat356](https://github.com/billythegoat356) - skid after resell open source shit, owner of skid community that cant even install python and more 
 - [TerrificTable](https://github.com/TerrificTable) - This disabled person is not able to write his own readme 
 - [Sheldon](https://github.com/Its-SheldonDev)
 - [sreechar](https://github.com/sreechar)
