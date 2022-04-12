@@ -29,12 +29,11 @@
 
 -----
 
-## Trusted developper
+## Trusted developer
 
 - [Vichy](https://github.com/Its-Vichy)
 - [V4NSH4J](https://github.com/V4NSH4J)
 - [hoemotion](https://github.com/hoemotion)
-- [dropout1337](https://github.com/dropout1337)
 - [Fweak](https://github.com/Fweak)
 - [bytixo](https://github.com/bytixo)
 - [Hideaki](https://github.com/HideakiAtsuyo)
