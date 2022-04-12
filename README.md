@@ -33,6 +33,7 @@
 
 - [Vichy](https://github.com/Its-Vichy)
 - [V4NSH4J](https://github.com/V4NSH4J)
+- [MonkeySkid](https://github.com/MonkeySkid)
 - [hoemotion](https://github.com/hoemotion)
 - [Fweak](https://github.com/Fweak)
 - [bytixo](https://github.com/bytixo)
