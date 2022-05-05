@@ -48,6 +48,7 @@
 
 ## Skid
 
+- [Astra](https://github.com/AstraaDev)
 - [billythegoat356](https://github.com/billythegoat356) - skid after resell open source shit, owner of skid community that cant even install python and more 
 - [TerrificTable](https://github.com/TerrificTable) - This disabled person is not able to write his own readme 
 - [Sheldon](https://github.com/Its-SheldonDev)
