@@ -1,0 +1,5 @@
+{
+    "threads": 5,
+    "captcha_key": "",
+    "captcha_api": "anti-captcha.com"
+}
