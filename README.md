@@ -62,6 +62,7 @@
 
 ## Scammer + skid
 
+- [adzinoo](https://github.com/adzinoo) - scamming token gen for 50 bucks sheesh
 - [CryonicsX](https://github.com/CryonicsX) - this kid selling my solver LMAO (https://media.discordapp.net/attachments/943968212251467877/947079061757366282/unknown.png)
 - [ExordiumX](https://github.com/ExordiumX)
 - [TT-Tutorials](https://github.com/TT-Tutorials) - lol this kid resell my tools and skid github
