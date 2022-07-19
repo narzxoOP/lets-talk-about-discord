@@ -48,6 +48,10 @@
 
 ## Skid
 
+- [Snowad14](https://github.com/Snowad14/Requests-Hcaptcha-Solver) "semiskid" 1line of credit btw all line of code are copy/pasted LMFAO
+- [satyajit355](https://github.com/satyajit355) - Skidding my gen
+- [LanLan69](https://github.com/LanLan69) - Skidding h0nde, my gen and also my solver ultra cringe dude
+
 - [Astra](https://github.com/AstraaDev)
 - [billythegoat356](https://github.com/billythegoat356) - skid after resell open source shit, owner of skid community that cant even install python and more 
 - [TerrificTable](https://github.com/TerrificTable) - This disabled person is not able to write his own readme 
@@ -59,7 +63,6 @@
 - [KeevoDev](https://github.com/KeevoDev) - https://github.com/Its-Vichy/lets-talk-about-discord/issues/2
 
 ----
-
 ## Scammer + skid
 
 - [adzinoo](https://github.com/adzinoo) - scamming token gen for 50 bucks sheesh
